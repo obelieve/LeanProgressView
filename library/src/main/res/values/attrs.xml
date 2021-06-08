@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="LeanProgressView">
+        <attr name="leftProgressColor" format="color|reference"/>
+        <attr name="rightProgressColor" format="color|reference"/>
+        <attr name="leftRightGap" format="dimension"/>
+        <attr name="leftProgress" format="integer"/>
+        <attr name="rightProgress" format="integer"/>
+    </declare-styleable>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+    <com.obelieve.progressview.LeanProgressView
+        android:id="@+id/lpv_content"
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:layout_margin="20dp"
+        app:leftProgress="50"
+        app:rightProgress="50"
+        app:leftRightGap="10dp"
+        app:leftProgressColor="#FF5252"
+        app:rightProgressColor="#308BFE"/>
+</LinearLayout>
