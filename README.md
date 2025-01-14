@@ -1,5 +1,5 @@
-# ProgressView
-- LeanProgressView 斜度进度条
+# 斜度进度条
+
 
 ![image](https://github.com/obelieve/ProgressView/blob/master/screenshots/screenshot.png)
 
